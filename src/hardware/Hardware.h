@@ -16,8 +16,7 @@
 #define AVR 4
 #define QT_USB 5
 #define INTERNAL_CALLBACK 6
-#define ESP32 7
-#define PROCESSOR_CHOICE ESP32
+#define PROCESSOR_CHOICE INTERNAL_CALLBACK
 
 /* C Standard library */
 #include "../open-sae-j1939/C89_Library.h"
