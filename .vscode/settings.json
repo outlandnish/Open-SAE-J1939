@@ -6,6 +6,7 @@
     "hardware.h": "c",
     "structs.h": "c",
     "diagnostics_layer.h": "c",
-    "network_management_layer.h": "c"
+    "network_management_layer.h": "c",
+    "c89_library.h": "c"
   }
 }

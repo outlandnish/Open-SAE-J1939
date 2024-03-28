@@ -40,4 +40,4 @@ typedef uint8_t bool;
 #endif
 #endif
 
-#endif /* OPEN_SAE_J1939_C89_LIBRARY_H_ */
+#endif /* Open_SAE_J1939_C89_LIBRARY_H_ */

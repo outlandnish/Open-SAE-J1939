@@ -8,7 +8,7 @@
 #include "Application_Layer.h"
 
 /* Layers */
-#include "../../SAE_J1939/transport-layer/Transport_Layer.h"
+#include "../../sae-j1939/transport-layer/Transport_Layer.h"
 #include "../../hardware/Hardware.h"
 
 /*

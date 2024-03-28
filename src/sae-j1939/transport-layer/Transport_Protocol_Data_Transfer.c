@@ -9,8 +9,8 @@
 
 /* Layers */
 #include "../network-management-layer/Network_Management_Layer.h"
-#include "../diagnostics_layer/Diagnostics_Layer.h"
-#include "../application_layer/Application_Layer.h"
+#include "../diagnostics-layer/Diagnostics_Layer.h"
+#include "../application-layer/Application_Layer.h"
 
 /*
  * Store the sequence data packages from other ECU

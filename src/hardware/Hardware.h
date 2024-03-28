@@ -20,7 +20,7 @@
 #define PROCESSOR_CHOICE ESP32
 
 /* C Standard library */
-#include "../Open_SAE_J1939/C89_Library.h"
+#include "../open-sae-j1939/C89_Library.h"
 
 /* Enums */
 #include "../sae-j1939/enums/Enum_DM14_DM15.h"

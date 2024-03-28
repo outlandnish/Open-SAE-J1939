@@ -9,7 +9,7 @@
 #define SAE_J1939_71_APPLICATION_LAYER_SAE_J1939_71_APPLICATION_LAYER_H_
 
 /* Enums and structs */
-#include "../../Open_SAE_J1939/Structs.h"
+#include "../../open-sae-j1939/Structs.h"
 #include "../enums/Enum_Control_Byte.h"
 #include "../enums/Enum_DM1_DM2.h"
 #include "../enums/Enum_DM14_DM15.h"

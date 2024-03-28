@@ -9,10 +9,11 @@
 #define ISO_11783_ISO_11783_7_APPLICATION_LAYER_ISO_11783_7_APPLICATION_LAYER_H_
 
 /* Enums and struct */
-#include "../../Open_SAE_J1939/Structs.h"
-#include "../../SAE_J1939/SAE_J1939_Enums/Enum_PGN.h"
-#include "../../SAE_J1939/SAE_J1939_Enums/Enum_Send_Status.h"
-#include "../ISO_11783_Enums/Enum_Valves.h"
+#include <stdint.h>
+#include "../../open-sae-j1939/Structs.h"
+#include "../../sae-j1939/enums/Enum_PGN.h"
+#include "../../sae-j1939/enums/Enum_Send_Status.h"
+#include "../enums/Enum_Valves.h"
 
 #ifdef __cplusplus
 extern "C" {

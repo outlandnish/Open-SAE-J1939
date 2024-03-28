@@ -1,5 +1,5 @@
 /*
- * Open_SAE_J1939.h
+ * open-sae-j1939.h
  *
  *  Created on: 14 juli 2021
  *      Author: Daniel Mårtensson
@@ -63,4 +63,4 @@ bool Open_SAE_J1939_Closedown_ECU(J1939* j1939);
 }
 #endif
 
-#endif /* OPEN_SAE_J1939_OPEN_SAE_J1939_H_ */
+#endif /* OPEN_SAE_J1939_Open_SAE_J1939_H_ */
