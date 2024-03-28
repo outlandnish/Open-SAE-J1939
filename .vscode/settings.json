@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "application_layer.h": "c",
+    "transport_layer.h": "c",
+    "enum_dm1_dm2.h": "c",
+    "hardware.h": "c",
+    "structs.h": "c",
+    "diagnostics_layer.h": "c",
+    "network_management_layer.h": "c"
+  }
+}

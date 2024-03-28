@@ -16,14 +16,15 @@
 #define AVR 4
 #define QT_USB 5
 #define INTERNAL_CALLBACK 6
-#define PROCESSOR_CHOICE NO_PROCESSOR
+#define ESP32 7
+#define PROCESSOR_CHOICE ESP32
 
 /* C Standard library */
 #include "../Open_SAE_J1939/C89_Library.h"
 
 /* Enums */
-#include "../SAE_J1939/SAE_J1939_Enums/Enum_DM14_DM15.h"
-#include "../SAE_J1939/SAE_J1939_Enums/Enum_Send_Status.h"
+#include "../sae-j1939/enums/Enum_DM14_DM15.h"
+#include "../sae-j1939/enums/Enum_Send_Status.h"
 
 #ifdef __cplusplus
 extern "C" {
